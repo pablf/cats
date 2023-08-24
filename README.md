@@ -6,6 +6,7 @@
 [![Financial Contributors on Open Collective](https://opencollective.com/typelevel/all/badge.svg?label=financial+contributors)](https://opencollective.com/typelevel)
 [![Discord](https://img.shields.io/discord/632277896739946517.svg?label=&logo=discord&logoColor=ffffff&color=404244&labelColor=6A7EC2)](https://discord.gg/XF3CXcMzqD)
 
+
 ### Overview
 
 Cats is a library which provides abstractions for functional programming in the [Scala programming language](https://scala-lang.org).
